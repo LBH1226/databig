@@ -1,0 +1,16 @@
+package 산술연산자;
+
+public class Ex01산술연산자 {
+
+	public static void main(String[] args) {
+
+	double num1 = 3.15;
+	System.out.println((int)num1);
+			
+		
+		
+		
+		
+	}
+
+}

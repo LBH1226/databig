@@ -1,0 +1,23 @@
+package ifelse문;
+
+import java.util.Scanner;
+
+public class eee {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		System.out.println("구매수량 : ");
+		int quantity = sc.nextInt();
+		
+		int itemPrice = 10000;
+		
+		double discount = (quantity>=11)?0.1:0;
+		
+		int totalAmount = (int) (itemPrice*quantity*(1-discount));
+	    
+		System.out.println("총 지불 금액" + totalAmount +"원");
+		
+	}
+
+}

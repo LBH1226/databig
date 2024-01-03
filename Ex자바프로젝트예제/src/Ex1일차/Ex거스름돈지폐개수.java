@@ -10,7 +10,7 @@ public class Ex거스름돈지폐개수 {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("총금액 입력 : ");
 	    int money = sc.nextInt();
-	    System.out.println(" ");
+	    System.out.print("\n");
 	    System.out.println("잔돈 : "+money+"원");
 	    
 	    int a = money/10000;

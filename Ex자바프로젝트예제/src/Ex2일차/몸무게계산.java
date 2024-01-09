@@ -1,8 +1,8 @@
-package dowhile문;
+package Ex2일차;
 
 import java.util.Scanner;
 
-public class Ex02dowhile문예제 {
+public class 몸무게계산 {
 
 	public static void main(String[] args) {
 
@@ -46,6 +46,8 @@ public class Ex02dowhile문예제 {
 		
 		
 		}
+	
+
 	}
 
 

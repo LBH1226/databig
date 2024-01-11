@@ -11,7 +11,7 @@ public class Ex20번 {
 		int num = sc.nextInt();
 		int a = num;
 		
-		
+
 		
 			
 		}

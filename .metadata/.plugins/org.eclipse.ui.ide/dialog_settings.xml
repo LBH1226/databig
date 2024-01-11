@@ -26,6 +26,9 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\82109\OneDrive\바탕 화면\java\Ex0111메소드"/>
+			<item value="C:\Users\82109\OneDrive\바탕 화면\java\Ex0108배열"/>
+			<item value="C:\Users\82109\OneDrive\바탕 화면\java\Ex0103반복문"/>
 			<item value="C:\Users\82109\OneDrive\바탕 화면\java\Ex자바프로젝트예제"/>
 			<item value="C:\Users\82109\OneDrive\바탕 화면\java\Ex1227변수"/>
 			<item value="C:\Users\82109\OneDrive\바탕 화면\java\Ex1229조건문"/>

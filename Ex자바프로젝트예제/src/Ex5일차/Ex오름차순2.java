@@ -56,5 +56,5 @@ public class Ex오름차순2 {
 		System.out.println(Arrays.toString(array1));
 
 	}
-
+	}
 }

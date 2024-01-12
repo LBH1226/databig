@@ -12,8 +12,8 @@ public class Ex11번 {
 	}
 
 	private static boolean isDivide(int num1, int num2) {
-
 		boolean result = false;
+		
 		if (num1 % num2 == 0) {
 			result = true;
 		}

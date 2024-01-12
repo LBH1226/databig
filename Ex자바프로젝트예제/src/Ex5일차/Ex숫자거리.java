@@ -14,6 +14,7 @@ public class Ex숫자거리 {
 			int a = rd.nextInt(99) + 1;
 			array[i] = a;
 		}
+	
 		System.out.println(Arrays.toString(array));
 
 		int a = array[0] - array[1];

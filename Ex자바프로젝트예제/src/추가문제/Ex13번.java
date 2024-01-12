@@ -12,9 +12,6 @@ public class Ex13번 {
 		int d = 0;
 		int f = 0;
 		
-		char[] array = {'A','B','C','D','E'};
-		char[] array1 = {'a','b','c','d','e'};
-		
 		
 		for(int i = 0; i<score.length(); i++) {
 			if(score.charAt(i)=='A') {

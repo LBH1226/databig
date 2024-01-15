@@ -22,5 +22,5 @@ public class Ex03메소드오버로딩 {
 		return num1 + num2;
 	}
 	
-	static
+
 }

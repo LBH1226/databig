@@ -11,9 +11,9 @@ public class Ex반올림 {
 		int num = sc.nextInt();
 		
 		if(num%10<5) {
-			num = num-(num%10);
+			num = num/10*10;
 		}else {
-			num = num+(10-num%10);
+			num = (num/10+1)*10;
 		}
 		
 		System.out.println("반올림 수 : "+num );

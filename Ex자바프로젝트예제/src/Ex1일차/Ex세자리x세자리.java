@@ -13,7 +13,7 @@ public class Ex세자리x세자리 {
 		System.out.print("두번째 숫자 입력 : ");
 		int num2 = sc.nextInt();
 		
-		int a = num1*((num2%100)%10);
+		int a = num1*(num2%10);
 		int b = num1*(num2%100/10);
 		int c = num1*(num2/100);
 		int d = a + b*10 + c*100;

@@ -11,15 +11,15 @@ public class 정수합8자리 {
 		int a = sc.nextInt();
 
 		int sum = 0;
-		int e = a;
+		
 		int c = 100000000;
 		
-		while (e>=1) {
+		while (c>=10) {
 	
 			c *= 0.1;
 
-			sum += e / c;
-			e = a % c;
+			sum += a / c;
+			a = a % c;
 		}
 		
 		System.out.println("합은" + sum + "입니다.");

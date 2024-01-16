@@ -18,27 +18,12 @@ public class Ex오름차순 {
 
 		System.out.println("정렬후");
 
-		int[] array1 = new int[5];
-		int num1 = array[0];
-		for (int i = 0; i <5; i++) {
-			if(num1>=array[i]) {
-				num1=array[i];
-			}
-		}
-		array1[0]=num1;
+		Arrays.sort(array);
 		
-		
-		for (int i = 1; i <5; i++) {
-			
-			for(int j = 1; j<5; j++) {
-				if(array[i]>=array[j]&&i!=j) {
-					array1[i]=array[j];
-				}else {
-					array1[i]=array[i];
-				}
-			}
+		for(int n:array) {
+			System.out.print(n+" ");
 		}
-		System.out.println(Arrays.toString(array1));
+		
 
 	}
 

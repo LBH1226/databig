@@ -32,16 +32,12 @@ public class Ex거스름돈지폐개수 {
 		   d = 0;
 		   e = money%10000%1000/100;
 	   }
-	  
 	    
 	    System.out.println("10000원 : "+a+"개");
 	    System.out.println("5000원 : "+b+"개");
 	    System.out.println("1000원 : "+c+"개");
 	    System.out.println("500원 : "+d+"개");
 	    System.out.println("100원 : "+e+"개");
-	    
-	    
-	    
 	    
 	}
 

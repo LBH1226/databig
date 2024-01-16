@@ -7,6 +7,8 @@ public class Ex숫자거리 {
 
 	public static void main(String[] args) {
 
+		
+		//랜덤배열 선언
 		int[] array = new int[7];
 		Random rd = new Random();
 
@@ -14,7 +16,11 @@ public class Ex숫자거리 {
 			int a = rd.nextInt(99) + 1;
 			array[i] = a;
 		}
+	
 		System.out.println(Arrays.toString(array));
+		
+		
+		/////////////////
 
 		int a = array[0] - array[1];
 		if(a<0) {

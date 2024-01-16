@@ -32,9 +32,6 @@ public class Ex05완전수구하기 {
 	}
 	
 	
-	
-	
-	
 	private static int getSum(int num1) {
 		
 		int result = 0;

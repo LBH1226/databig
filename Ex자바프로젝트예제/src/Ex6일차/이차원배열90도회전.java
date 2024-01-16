@@ -19,10 +19,11 @@ public class 이차원배열90도회전 {
 		}
 
 		for (int i = 0; i < array.length; i++) {
-			System.out.println();
+	
 			for (int j = 0; j < array.length; j++) {
 				System.out.print(array[i][j] + "\t");
 			}
+			System.out.println();
 		}
 		
 		

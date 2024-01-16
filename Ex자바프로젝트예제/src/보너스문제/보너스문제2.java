@@ -17,7 +17,5 @@ public class 보너스문제2 {
 		
 		System.out.print(a.charAt(a.length()/2));
 		}
-		
 	}
-
 }

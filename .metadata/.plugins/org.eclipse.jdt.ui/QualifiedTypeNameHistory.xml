@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="javax.lang.model.util.ElementScanner7"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="상속기초.Parent"/>
+    <fullyQualifiedTypeName name="상속기초.Child"/>
+    <fullyQualifiedTypeName name="닌텐도게임.GameMain"/>
+    <fullyQualifiedTypeName name="닌텐도게임.Pocketmon"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="OOP기초.Person"/>
-    <fullyQualifiedTypeName name="java.awt.List"/>
-    <fullyQualifiedTypeName name="ArrayList.Student"/>
-    <fullyQualifiedTypeName name="javazoom.jl.player.MP3Player"/>
-    <fullyQualifiedTypeName name="mp3Player.Music"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="MVC.MusicController"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

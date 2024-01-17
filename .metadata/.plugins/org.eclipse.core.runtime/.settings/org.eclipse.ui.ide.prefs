@@ -1,10 +1,13 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=3a70a289aa9f40e472670cfd066bd8a976528974
+>>>>>>>=b39b6eaf18e52efcecd4fd65bf53fbadcbdfc976
+IMPORT_FILES_AND_FOLDERS_MODE=prompt
 IMPORT_FILES_AND_FOLDERS_RELATIVE=true
 IMPORT_FILES_AND_FOLDERS_TYPE=23,1\:7,1
+IMPORT_FILES_AND_FOLDERS_VIRTUAL_FOLDER_MODE=prompt
+SAVE_ALL_BEFORE_BUILD=true
 SWITCH_PERSPECTIVE_ON_PROJECT_CREATION=never
 eclipse.preferences.version=1
-platformState=1703658033285
+platformState=1703658033289
 quickStart=false
 tipsAndTricks=true

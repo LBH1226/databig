@@ -21,9 +21,11 @@ public class Ex로또 {
 				break;
 			}
 		}
-		System.out.println("행운의숫자 : "+lotto[j]);
 		}
-		
+		for (int i = 0; i < lotto.length; i++) {
+			System.out.println("행운의숫자 : "+lotto[i]);
+			
+		}
 		
 		
 		

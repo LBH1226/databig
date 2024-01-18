@@ -8,6 +8,7 @@ public class GameMain {
 		// 게임칩 가지고 오기
 		Pocketmon p = new Pocketmon();
 		// 게임칩 끼우기
+		p.gameStart();
 		insert(p);
 		
 		
@@ -18,11 +19,13 @@ public class GameMain {
 		insert(m);
 		Zelda z = new Zelda();	
 		insert(z);
+		Dongmul d = new Dongmul();
+		insert(d);
 		
 	}
 	
 	// 게임칩을 끼우는 기능
-	private static void insert(Pocketmon game) {
+	private static void insert(GameChip game) {
 		game.gameStart();
 	}
 	

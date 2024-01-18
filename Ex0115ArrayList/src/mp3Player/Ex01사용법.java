@@ -13,7 +13,7 @@ public class Ex01사용법 {
 		
 		// jar 파일 추가하는법
 		// 프로젝트 선택 -> 마우스 우클릭 -> build path -> configure build path
-		// -> libraries 탭으로 이동 -> class path 선택 -> 우측에 있는 acc jars 선택
+		// -> libraries 탭으로 이동 -> class path 선택 -> 우측에 있는 add jars 선택
 		// -> 원하는 jar파일 추가 후 -> apply and close
 		
 		// 노래 재생 가능한 도구 꺼내기

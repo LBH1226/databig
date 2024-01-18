@@ -10,5 +10,13 @@
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.TempEmployee"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.PartTimeEmployee"/>
+    <fullyQualifiedTypeName name="인터페이스.Temp"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.Employee"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="월급계산프로그램.asdas"/>
 </qualifiedTypeNameHistroy>

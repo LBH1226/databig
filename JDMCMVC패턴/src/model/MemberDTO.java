@@ -3,8 +3,8 @@ package model;
 public class MemberDTO {
 	
 	// Model 역할
-	// DTO --> Data Transfer Object --> getter 메소드만 가질 수 있음
-	// VO --> Value Object --> getter, setter 메소드 전부 가질 수 있음
+	// DTO --> Data Transfer Object --> getter, setter 메소드 전부 가질 수 있음
+	// VO --> Value Object --> getter 메소드만 가질 수 있음메소드 전부 가질 수 있음
 	
 	// 1. 필드
 	private String id;
@@ -20,6 +20,26 @@ public class MemberDTO {
 		this.pw = pw;
 		this.name = name;
 		this.age = age;
+		this.score = score;
+	}
+
+	public void setId(String id) {
+		this.id = id;
+	}
+
+	public void setPw(String pw) {
+		this.pw = pw;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	public void setScore(int score) {
 		this.score = score;
 	}
 

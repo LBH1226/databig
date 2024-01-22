@@ -25,6 +25,11 @@ public interface Temp {
 	
 	// 2. 메소드
 	public void temp();
+	
+	public static int sum() {
+		return num+num2;
+		
+	}
 		
 	
 	

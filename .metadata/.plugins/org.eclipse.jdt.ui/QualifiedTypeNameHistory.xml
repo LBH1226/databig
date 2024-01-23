@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="상속기초.Child"/>
     <fullyQualifiedTypeName name="닌텐도게임.GameMain"/>
     <fullyQualifiedTypeName name="닌텐도게임.Pocketmon"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="월급계산프로그램.TempEmployee"/>
@@ -19,7 +18,6 @@
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="model.MemberDAO"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.List"/>
@@ -27,4 +25,7 @@
     <fullyQualifiedTypeName name="인터페이스.child"/>
     <fullyQualifiedTypeName name="인터페이스.Temp"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Q6one.MusicVO"/>
 </qualifiedTypeNameHistroy>
